@@ -1,10 +1,10 @@
 {
     "name": "laravel/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
+    "description": "SimbirSoft test.",
     "keywords": [
-        "framework",
-        "laravel"
+        "SimbirSoft",
+        "test"
     ],
     "license": "MIT",
     "require": {
