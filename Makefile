@@ -1,3 +1,5 @@
+up: unperm docker-up
+
 docker-up:
 	docker-compose up -d
 
